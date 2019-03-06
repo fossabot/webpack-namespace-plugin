@@ -1,0 +1,16 @@
+{
+  "name": "webpack-namespace-plugin",
+  "version": "0.0.1",
+  "description": "TypeScript namespace webpack plugins.",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "keywords": [],
+  "author": "adriangodong",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adriangodong/webpack-namespace-plugin"
+  }
+}
